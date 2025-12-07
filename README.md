@@ -12,4 +12,11 @@ All R figures used in the report
 All QGIS data and figures used in the report
 
 -Arran
+
 Actual R project
+
+-Rhistory
+Metadata
+
+-Gitignore
+Misc

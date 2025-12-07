@@ -28,3 +28,4 @@ Metadata
 
 Misc
 
+Keywords for FAIR: Lochranza, Lochranza ecological impact assessment, Arran, EIA, EcIA, Edinburgh, UoE, MSc, Ecology, Conservation, Scotland

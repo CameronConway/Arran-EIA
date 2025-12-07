@@ -1,0 +1,47 @@
+********************************************************************
+
+EDINA DIGIMAP:
+
+DIGITAL DATA SUPPLY
+
+********************************************************************
+
+
+This data is distributed under licence by:
+
+    EDINA
+    University of Edinburgh
+    https://edina.ac.uk
+
+    Tel:    0131 650 3302
+    Fax:    0131 650 3308
+    Email:  digimap@ed.ac.uk
+		
+
+
+---------------------------------------------------------
+
+CONTENTS
+
+You will have received the data files listed below, each product and area has
+its own folder. Note that each data folder contains a conditions.txt file
+which states the conditions for use of the data within. These conditions can
+vary between different data products.
+
+
+
+-------------------------------------------------------------------------------
+Folder:           raster-25k_6177880
+Extent:           193516.6805339156, 650164.5069062689 - 195100.68062546835, 651308.1443771136
+Date Ordered:     23 November 2025 at 18:33:51
+Product:          1:25 000 Scale Colour Raster
+Version:          September 2025
+Format:           TIFF
+Theme:            N/A
+Area:             1 tiles
+Tiles:
+ 
+Tile Name:        nr95_clipped
+Extent:           193516.6805339156, 650164.5069062689 - 195100.68062546835, 651308.1443771136
+Last Amended:     13 July 2020
+     
